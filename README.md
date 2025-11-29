@@ -1,4 +1,5 @@
 # Mini-Project-1
 Police Secure Check
 Creating a project with python and sql with dashboard creation on streamlit
+import libraries-pandas,mysql connector, streamlit,plotly by giving pip install
 
